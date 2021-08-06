@@ -1,3 +1,10 @@
 main_function.py
-speech-to-text.py
-text-to-speech.py
+send_email.py
+wikipedia_search.py
+chrome_search.py
+play_music.py
+data.txt
+remember_function.py
+screenshot.py
+ss.png
+battery_cpu.py
